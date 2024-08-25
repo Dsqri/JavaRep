@@ -1,4 +1,4 @@
-# JavaR# Difference-Arrays-ArrayLists
+# Difference-Arrays-ArrayLists
 
 This project demonstrates the differences between arrays and ArrayLists in Java.
 
@@ -6,7 +6,7 @@ This project demonstrates the differences between arrays and ArrayLists in Java.
 
 - Arrays are fixed in size.
 - Direct access to elements with constant time complexity.
-- Example code provided demonstrates creating an array, populating it, and iterating over its elements.
+- Code provided demonstrates creating an array, populating it, and iterating over its elements.
 
 ## ArrayList Example
 
@@ -21,7 +21,4 @@ The Java code in `DifferenceArrayLists.java` shows examples of both arrays and A
 ## Instructions
 
 1. Compile: `javac DifferenceArrayLists.java`
-2. Run: `java DifferenceArrayLists`
-
-## Repository
-
+2. Run: `java DifferenceArraysArrayLists`
