@@ -1,6 +1,6 @@
 # Difference-Arrays-ArrayLists
 
-This project demonstrates the differences between arrays and ArrayLists in Java.
+This project demonstrates the differences between arrays and ArrayLists in Java. For this Array i used strings instead of values.
 
 ## Array Example
 
